@@ -1,4 +1,5 @@
-.box{
+.blueBox{
   width: 100px;
   height: 100px;
+  background-color: blue; //如果使用bootstrap 會使權重不同導致gsap 顏色無法覆蓋
 }
